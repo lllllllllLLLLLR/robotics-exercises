@@ -1,4 +1,4 @@
-# MVA Robotics Exercises
+# Robotics Exercises
 
 My worked exercises for the **MVA (Mathématiques, Vision, Apprentissage) Robotics** course at Université Paris-Saclay — numerical robotics, differential kinematics, and simulation for robotics, built on [Pinocchio](https://github.com/stack-of-tasks/pinocchio).
 
@@ -38,7 +38,3 @@ Meshcat visualization: open `localhost:700N/static/` where N is the Nth meshcat 
 ├── mva_robotics.yml                             # conda env
 └── pinocchio_cheat_sheet.pdf
 ```
-
-## License
-
-See `LICENSE` (original course repo).
